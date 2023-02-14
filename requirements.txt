@@ -1,0 +1,6 @@
+pandas
+numpy
+alpha_vantage
+pathlib
+json
+-e .
